@@ -232,76 +232,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.7/lib" />
       </SOURCES>
     </library>
-    <library name="bigdecimal (v1.2.0, ruby-2.0.0-p645) [gem]">
-      <CLASSES>
-        <root url="file:///usr/lib/ruby/2.0.0/dl" />
-        <root url="file:///usr/lib/ruby/2.0.0/io" />
-        <root url="file:///usr/lib/ruby/2.0.0/cgi" />
-        <root url="file:///usr/lib/ruby/2.0.0/drb" />
-        <root url="file:///usr/lib/ruby/2.0.0/irb" />
-        <root url="file:///usr/lib/ruby/2.0.0/net" />
-        <root url="file:///usr/lib/ruby/2.0.0/rss" />
-        <root url="file:///usr/lib/ruby/2.0.0/uri" />
-        <root url="file:///usr/lib/ruby/2.0.0/date" />
-        <root url="file:///usr/lib/ruby/2.0.0/json" />
-        <root url="file:///usr/lib/ruby/2.0.0/racc" />
-        <root url="file:///usr/lib/ruby/2.0.0/rake" />
-        <root url="file:///usr/lib/ruby/2.0.0/rdoc" />
-        <root url="file:///usr/lib/ruby/2.0.0/yaml" />
-        <root url="file:///usr/lib/ruby/2.0.0/psych" />
-        <root url="file:///usr/lib/ruby/2.0.0/rexml" />
-        <root url="file:///usr/lib/ruby/2.0.0/rinda" />
-        <root url="file:///usr/lib/ruby/2.0.0/shell" />
-        <root url="file:///usr/lib/ruby/2.0.0/digest" />
-        <root url="file:///usr/lib/ruby/2.0.0/fiddle" />
-        <root url="file:///usr/lib/ruby/2.0.0/matrix" />
-        <root url="file:///usr/lib/ruby/2.0.0/ripper" />
-        <root url="file:///usr/lib/ruby/2.0.0/syslog" />
-        <root url="file:///usr/lib/ruby/2.0.0/xmlrpc" />
-        <root url="file:///usr/lib/ruby/2.0.0/openssl" />
-        <root url="file:///usr/lib/ruby/2.0.0/webrick" />
-        <root url="file:///usr/lib/ruby/2.0.0/minitest" />
-        <root url="file:///usr/lib/ruby/2.0.0/optparse" />
-        <root url="file:///usr/lib/ruby/2.0.0/rbconfig" />
-        <root url="file:///usr/lib/ruby/2.0.0/rubygems" />
-        <root url="file:///usr/lib/ruby/2.0.0/bigdecimal" />
-        <root url="file:///usr/lib/ruby/2.0.0/universal-darwin15" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/lib/ruby/2.0.0/dl" />
-        <root url="file:///usr/lib/ruby/2.0.0/io" />
-        <root url="file:///usr/lib/ruby/2.0.0/cgi" />
-        <root url="file:///usr/lib/ruby/2.0.0/drb" />
-        <root url="file:///usr/lib/ruby/2.0.0/irb" />
-        <root url="file:///usr/lib/ruby/2.0.0/net" />
-        <root url="file:///usr/lib/ruby/2.0.0/rss" />
-        <root url="file:///usr/lib/ruby/2.0.0/uri" />
-        <root url="file:///usr/lib/ruby/2.0.0/date" />
-        <root url="file:///usr/lib/ruby/2.0.0/json" />
-        <root url="file:///usr/lib/ruby/2.0.0/racc" />
-        <root url="file:///usr/lib/ruby/2.0.0/rake" />
-        <root url="file:///usr/lib/ruby/2.0.0/rdoc" />
-        <root url="file:///usr/lib/ruby/2.0.0/yaml" />
-        <root url="file:///usr/lib/ruby/2.0.0/psych" />
-        <root url="file:///usr/lib/ruby/2.0.0/rexml" />
-        <root url="file:///usr/lib/ruby/2.0.0/rinda" />
-        <root url="file:///usr/lib/ruby/2.0.0/shell" />
-        <root url="file:///usr/lib/ruby/2.0.0/digest" />
-        <root url="file:///usr/lib/ruby/2.0.0/fiddle" />
-        <root url="file:///usr/lib/ruby/2.0.0/matrix" />
-        <root url="file:///usr/lib/ruby/2.0.0/ripper" />
-        <root url="file:///usr/lib/ruby/2.0.0/syslog" />
-        <root url="file:///usr/lib/ruby/2.0.0/xmlrpc" />
-        <root url="file:///usr/lib/ruby/2.0.0/openssl" />
-        <root url="file:///usr/lib/ruby/2.0.0/webrick" />
-        <root url="file:///usr/lib/ruby/2.0.0/minitest" />
-        <root url="file:///usr/lib/ruby/2.0.0/optparse" />
-        <root url="file:///usr/lib/ruby/2.0.0/rbconfig" />
-        <root url="file:///usr/lib/ruby/2.0.0/rubygems" />
-        <root url="file:///usr/lib/ruby/2.0.0/bigdecimal" />
-        <root url="file:///usr/lib/ruby/2.0.0/universal-darwin15" />
-      </SOURCES>
-    </library>
     <library name="bigdecimal (v1.2.6, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/2.2.0/io" />
@@ -812,76 +742,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/i18n-0.7.0/gemfiles" />
       </SOURCES>
     </library>
-    <library name="io-console (v0.4.2, ruby-2.0.0-p645) [gem]">
-      <CLASSES>
-        <root url="file:///usr/lib/ruby/2.0.0/dl" />
-        <root url="file:///usr/lib/ruby/2.0.0/io" />
-        <root url="file:///usr/lib/ruby/2.0.0/cgi" />
-        <root url="file:///usr/lib/ruby/2.0.0/drb" />
-        <root url="file:///usr/lib/ruby/2.0.0/irb" />
-        <root url="file:///usr/lib/ruby/2.0.0/net" />
-        <root url="file:///usr/lib/ruby/2.0.0/rss" />
-        <root url="file:///usr/lib/ruby/2.0.0/uri" />
-        <root url="file:///usr/lib/ruby/2.0.0/date" />
-        <root url="file:///usr/lib/ruby/2.0.0/json" />
-        <root url="file:///usr/lib/ruby/2.0.0/racc" />
-        <root url="file:///usr/lib/ruby/2.0.0/rake" />
-        <root url="file:///usr/lib/ruby/2.0.0/rdoc" />
-        <root url="file:///usr/lib/ruby/2.0.0/yaml" />
-        <root url="file:///usr/lib/ruby/2.0.0/psych" />
-        <root url="file:///usr/lib/ruby/2.0.0/rexml" />
-        <root url="file:///usr/lib/ruby/2.0.0/rinda" />
-        <root url="file:///usr/lib/ruby/2.0.0/shell" />
-        <root url="file:///usr/lib/ruby/2.0.0/digest" />
-        <root url="file:///usr/lib/ruby/2.0.0/fiddle" />
-        <root url="file:///usr/lib/ruby/2.0.0/matrix" />
-        <root url="file:///usr/lib/ruby/2.0.0/ripper" />
-        <root url="file:///usr/lib/ruby/2.0.0/syslog" />
-        <root url="file:///usr/lib/ruby/2.0.0/xmlrpc" />
-        <root url="file:///usr/lib/ruby/2.0.0/openssl" />
-        <root url="file:///usr/lib/ruby/2.0.0/webrick" />
-        <root url="file:///usr/lib/ruby/2.0.0/minitest" />
-        <root url="file:///usr/lib/ruby/2.0.0/optparse" />
-        <root url="file:///usr/lib/ruby/2.0.0/rbconfig" />
-        <root url="file:///usr/lib/ruby/2.0.0/rubygems" />
-        <root url="file:///usr/lib/ruby/2.0.0/bigdecimal" />
-        <root url="file:///usr/lib/ruby/2.0.0/universal-darwin15" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/lib/ruby/2.0.0/dl" />
-        <root url="file:///usr/lib/ruby/2.0.0/io" />
-        <root url="file:///usr/lib/ruby/2.0.0/cgi" />
-        <root url="file:///usr/lib/ruby/2.0.0/drb" />
-        <root url="file:///usr/lib/ruby/2.0.0/irb" />
-        <root url="file:///usr/lib/ruby/2.0.0/net" />
-        <root url="file:///usr/lib/ruby/2.0.0/rss" />
-        <root url="file:///usr/lib/ruby/2.0.0/uri" />
-        <root url="file:///usr/lib/ruby/2.0.0/date" />
-        <root url="file:///usr/lib/ruby/2.0.0/json" />
-        <root url="file:///usr/lib/ruby/2.0.0/racc" />
-        <root url="file:///usr/lib/ruby/2.0.0/rake" />
-        <root url="file:///usr/lib/ruby/2.0.0/rdoc" />
-        <root url="file:///usr/lib/ruby/2.0.0/yaml" />
-        <root url="file:///usr/lib/ruby/2.0.0/psych" />
-        <root url="file:///usr/lib/ruby/2.0.0/rexml" />
-        <root url="file:///usr/lib/ruby/2.0.0/rinda" />
-        <root url="file:///usr/lib/ruby/2.0.0/shell" />
-        <root url="file:///usr/lib/ruby/2.0.0/digest" />
-        <root url="file:///usr/lib/ruby/2.0.0/fiddle" />
-        <root url="file:///usr/lib/ruby/2.0.0/matrix" />
-        <root url="file:///usr/lib/ruby/2.0.0/ripper" />
-        <root url="file:///usr/lib/ruby/2.0.0/syslog" />
-        <root url="file:///usr/lib/ruby/2.0.0/xmlrpc" />
-        <root url="file:///usr/lib/ruby/2.0.0/openssl" />
-        <root url="file:///usr/lib/ruby/2.0.0/webrick" />
-        <root url="file:///usr/lib/ruby/2.0.0/minitest" />
-        <root url="file:///usr/lib/ruby/2.0.0/optparse" />
-        <root url="file:///usr/lib/ruby/2.0.0/rbconfig" />
-        <root url="file:///usr/lib/ruby/2.0.0/rubygems" />
-        <root url="file:///usr/lib/ruby/2.0.0/bigdecimal" />
-        <root url="file:///usr/lib/ruby/2.0.0/universal-darwin15" />
-      </SOURCES>
-    </library>
     <library name="io-console (v0.4.3, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/2.2.0/io" />
@@ -1010,76 +870,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/jquery-slimscroll-rails-1.0.9/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/jquery-slimscroll-rails-1.0.9/vendor" />
-      </SOURCES>
-    </library>
-    <library name="json (v1.7.7, ruby-2.0.0-p645) [gem]">
-      <CLASSES>
-        <root url="file:///usr/lib/ruby/2.0.0/dl" />
-        <root url="file:///usr/lib/ruby/2.0.0/io" />
-        <root url="file:///usr/lib/ruby/2.0.0/cgi" />
-        <root url="file:///usr/lib/ruby/2.0.0/drb" />
-        <root url="file:///usr/lib/ruby/2.0.0/irb" />
-        <root url="file:///usr/lib/ruby/2.0.0/net" />
-        <root url="file:///usr/lib/ruby/2.0.0/rss" />
-        <root url="file:///usr/lib/ruby/2.0.0/uri" />
-        <root url="file:///usr/lib/ruby/2.0.0/date" />
-        <root url="file:///usr/lib/ruby/2.0.0/json" />
-        <root url="file:///usr/lib/ruby/2.0.0/racc" />
-        <root url="file:///usr/lib/ruby/2.0.0/rake" />
-        <root url="file:///usr/lib/ruby/2.0.0/rdoc" />
-        <root url="file:///usr/lib/ruby/2.0.0/yaml" />
-        <root url="file:///usr/lib/ruby/2.0.0/psych" />
-        <root url="file:///usr/lib/ruby/2.0.0/rexml" />
-        <root url="file:///usr/lib/ruby/2.0.0/rinda" />
-        <root url="file:///usr/lib/ruby/2.0.0/shell" />
-        <root url="file:///usr/lib/ruby/2.0.0/digest" />
-        <root url="file:///usr/lib/ruby/2.0.0/fiddle" />
-        <root url="file:///usr/lib/ruby/2.0.0/matrix" />
-        <root url="file:///usr/lib/ruby/2.0.0/ripper" />
-        <root url="file:///usr/lib/ruby/2.0.0/syslog" />
-        <root url="file:///usr/lib/ruby/2.0.0/xmlrpc" />
-        <root url="file:///usr/lib/ruby/2.0.0/openssl" />
-        <root url="file:///usr/lib/ruby/2.0.0/webrick" />
-        <root url="file:///usr/lib/ruby/2.0.0/minitest" />
-        <root url="file:///usr/lib/ruby/2.0.0/optparse" />
-        <root url="file:///usr/lib/ruby/2.0.0/rbconfig" />
-        <root url="file:///usr/lib/ruby/2.0.0/rubygems" />
-        <root url="file:///usr/lib/ruby/2.0.0/bigdecimal" />
-        <root url="file:///usr/lib/ruby/2.0.0/universal-darwin15" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/lib/ruby/2.0.0/dl" />
-        <root url="file:///usr/lib/ruby/2.0.0/io" />
-        <root url="file:///usr/lib/ruby/2.0.0/cgi" />
-        <root url="file:///usr/lib/ruby/2.0.0/drb" />
-        <root url="file:///usr/lib/ruby/2.0.0/irb" />
-        <root url="file:///usr/lib/ruby/2.0.0/net" />
-        <root url="file:///usr/lib/ruby/2.0.0/rss" />
-        <root url="file:///usr/lib/ruby/2.0.0/uri" />
-        <root url="file:///usr/lib/ruby/2.0.0/date" />
-        <root url="file:///usr/lib/ruby/2.0.0/json" />
-        <root url="file:///usr/lib/ruby/2.0.0/racc" />
-        <root url="file:///usr/lib/ruby/2.0.0/rake" />
-        <root url="file:///usr/lib/ruby/2.0.0/rdoc" />
-        <root url="file:///usr/lib/ruby/2.0.0/yaml" />
-        <root url="file:///usr/lib/ruby/2.0.0/psych" />
-        <root url="file:///usr/lib/ruby/2.0.0/rexml" />
-        <root url="file:///usr/lib/ruby/2.0.0/rinda" />
-        <root url="file:///usr/lib/ruby/2.0.0/shell" />
-        <root url="file:///usr/lib/ruby/2.0.0/digest" />
-        <root url="file:///usr/lib/ruby/2.0.0/fiddle" />
-        <root url="file:///usr/lib/ruby/2.0.0/matrix" />
-        <root url="file:///usr/lib/ruby/2.0.0/ripper" />
-        <root url="file:///usr/lib/ruby/2.0.0/syslog" />
-        <root url="file:///usr/lib/ruby/2.0.0/xmlrpc" />
-        <root url="file:///usr/lib/ruby/2.0.0/openssl" />
-        <root url="file:///usr/lib/ruby/2.0.0/webrick" />
-        <root url="file:///usr/lib/ruby/2.0.0/minitest" />
-        <root url="file:///usr/lib/ruby/2.0.0/optparse" />
-        <root url="file:///usr/lib/ruby/2.0.0/rbconfig" />
-        <root url="file:///usr/lib/ruby/2.0.0/rubygems" />
-        <root url="file:///usr/lib/ruby/2.0.0/bigdecimal" />
-        <root url="file:///usr/lib/ruby/2.0.0/universal-darwin15" />
       </SOURCES>
     </library>
     <library name="json (v1.8.1, rbenv: 2.2.3) [gem]">
@@ -1282,76 +1072,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/mini_portile2-2.0.0/lib" />
       </SOURCES>
     </library>
-    <library name="minitest (v4.3.2, ruby-2.0.0-p645) [gem]">
-      <CLASSES>
-        <root url="file:///usr/lib/ruby/2.0.0/dl" />
-        <root url="file:///usr/lib/ruby/2.0.0/io" />
-        <root url="file:///usr/lib/ruby/2.0.0/cgi" />
-        <root url="file:///usr/lib/ruby/2.0.0/drb" />
-        <root url="file:///usr/lib/ruby/2.0.0/irb" />
-        <root url="file:///usr/lib/ruby/2.0.0/net" />
-        <root url="file:///usr/lib/ruby/2.0.0/rss" />
-        <root url="file:///usr/lib/ruby/2.0.0/uri" />
-        <root url="file:///usr/lib/ruby/2.0.0/date" />
-        <root url="file:///usr/lib/ruby/2.0.0/json" />
-        <root url="file:///usr/lib/ruby/2.0.0/racc" />
-        <root url="file:///usr/lib/ruby/2.0.0/rake" />
-        <root url="file:///usr/lib/ruby/2.0.0/rdoc" />
-        <root url="file:///usr/lib/ruby/2.0.0/yaml" />
-        <root url="file:///usr/lib/ruby/2.0.0/psych" />
-        <root url="file:///usr/lib/ruby/2.0.0/rexml" />
-        <root url="file:///usr/lib/ruby/2.0.0/rinda" />
-        <root url="file:///usr/lib/ruby/2.0.0/shell" />
-        <root url="file:///usr/lib/ruby/2.0.0/digest" />
-        <root url="file:///usr/lib/ruby/2.0.0/fiddle" />
-        <root url="file:///usr/lib/ruby/2.0.0/matrix" />
-        <root url="file:///usr/lib/ruby/2.0.0/ripper" />
-        <root url="file:///usr/lib/ruby/2.0.0/syslog" />
-        <root url="file:///usr/lib/ruby/2.0.0/xmlrpc" />
-        <root url="file:///usr/lib/ruby/2.0.0/openssl" />
-        <root url="file:///usr/lib/ruby/2.0.0/webrick" />
-        <root url="file:///usr/lib/ruby/2.0.0/minitest" />
-        <root url="file:///usr/lib/ruby/2.0.0/optparse" />
-        <root url="file:///usr/lib/ruby/2.0.0/rbconfig" />
-        <root url="file:///usr/lib/ruby/2.0.0/rubygems" />
-        <root url="file:///usr/lib/ruby/2.0.0/bigdecimal" />
-        <root url="file:///usr/lib/ruby/2.0.0/universal-darwin15" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/lib/ruby/2.0.0/dl" />
-        <root url="file:///usr/lib/ruby/2.0.0/io" />
-        <root url="file:///usr/lib/ruby/2.0.0/cgi" />
-        <root url="file:///usr/lib/ruby/2.0.0/drb" />
-        <root url="file:///usr/lib/ruby/2.0.0/irb" />
-        <root url="file:///usr/lib/ruby/2.0.0/net" />
-        <root url="file:///usr/lib/ruby/2.0.0/rss" />
-        <root url="file:///usr/lib/ruby/2.0.0/uri" />
-        <root url="file:///usr/lib/ruby/2.0.0/date" />
-        <root url="file:///usr/lib/ruby/2.0.0/json" />
-        <root url="file:///usr/lib/ruby/2.0.0/racc" />
-        <root url="file:///usr/lib/ruby/2.0.0/rake" />
-        <root url="file:///usr/lib/ruby/2.0.0/rdoc" />
-        <root url="file:///usr/lib/ruby/2.0.0/yaml" />
-        <root url="file:///usr/lib/ruby/2.0.0/psych" />
-        <root url="file:///usr/lib/ruby/2.0.0/rexml" />
-        <root url="file:///usr/lib/ruby/2.0.0/rinda" />
-        <root url="file:///usr/lib/ruby/2.0.0/shell" />
-        <root url="file:///usr/lib/ruby/2.0.0/digest" />
-        <root url="file:///usr/lib/ruby/2.0.0/fiddle" />
-        <root url="file:///usr/lib/ruby/2.0.0/matrix" />
-        <root url="file:///usr/lib/ruby/2.0.0/ripper" />
-        <root url="file:///usr/lib/ruby/2.0.0/syslog" />
-        <root url="file:///usr/lib/ruby/2.0.0/xmlrpc" />
-        <root url="file:///usr/lib/ruby/2.0.0/openssl" />
-        <root url="file:///usr/lib/ruby/2.0.0/webrick" />
-        <root url="file:///usr/lib/ruby/2.0.0/minitest" />
-        <root url="file:///usr/lib/ruby/2.0.0/optparse" />
-        <root url="file:///usr/lib/ruby/2.0.0/rbconfig" />
-        <root url="file:///usr/lib/ruby/2.0.0/rubygems" />
-        <root url="file:///usr/lib/ruby/2.0.0/bigdecimal" />
-        <root url="file:///usr/lib/ruby/2.0.0/universal-darwin15" />
-      </SOURCES>
-    </library>
     <library name="minitest (v5.4.3, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/minitest-5.4.3/lib" />
@@ -1482,76 +1202,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/power_assert-0.2.2/lib" />
-      </SOURCES>
-    </library>
-    <library name="psych (v2.0.0, ruby-2.0.0-p645) [gem]">
-      <CLASSES>
-        <root url="file:///usr/lib/ruby/2.0.0/dl" />
-        <root url="file:///usr/lib/ruby/2.0.0/io" />
-        <root url="file:///usr/lib/ruby/2.0.0/cgi" />
-        <root url="file:///usr/lib/ruby/2.0.0/drb" />
-        <root url="file:///usr/lib/ruby/2.0.0/irb" />
-        <root url="file:///usr/lib/ruby/2.0.0/net" />
-        <root url="file:///usr/lib/ruby/2.0.0/rss" />
-        <root url="file:///usr/lib/ruby/2.0.0/uri" />
-        <root url="file:///usr/lib/ruby/2.0.0/date" />
-        <root url="file:///usr/lib/ruby/2.0.0/json" />
-        <root url="file:///usr/lib/ruby/2.0.0/racc" />
-        <root url="file:///usr/lib/ruby/2.0.0/rake" />
-        <root url="file:///usr/lib/ruby/2.0.0/rdoc" />
-        <root url="file:///usr/lib/ruby/2.0.0/yaml" />
-        <root url="file:///usr/lib/ruby/2.0.0/psych" />
-        <root url="file:///usr/lib/ruby/2.0.0/rexml" />
-        <root url="file:///usr/lib/ruby/2.0.0/rinda" />
-        <root url="file:///usr/lib/ruby/2.0.0/shell" />
-        <root url="file:///usr/lib/ruby/2.0.0/digest" />
-        <root url="file:///usr/lib/ruby/2.0.0/fiddle" />
-        <root url="file:///usr/lib/ruby/2.0.0/matrix" />
-        <root url="file:///usr/lib/ruby/2.0.0/ripper" />
-        <root url="file:///usr/lib/ruby/2.0.0/syslog" />
-        <root url="file:///usr/lib/ruby/2.0.0/xmlrpc" />
-        <root url="file:///usr/lib/ruby/2.0.0/openssl" />
-        <root url="file:///usr/lib/ruby/2.0.0/webrick" />
-        <root url="file:///usr/lib/ruby/2.0.0/minitest" />
-        <root url="file:///usr/lib/ruby/2.0.0/optparse" />
-        <root url="file:///usr/lib/ruby/2.0.0/rbconfig" />
-        <root url="file:///usr/lib/ruby/2.0.0/rubygems" />
-        <root url="file:///usr/lib/ruby/2.0.0/bigdecimal" />
-        <root url="file:///usr/lib/ruby/2.0.0/universal-darwin15" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/lib/ruby/2.0.0/dl" />
-        <root url="file:///usr/lib/ruby/2.0.0/io" />
-        <root url="file:///usr/lib/ruby/2.0.0/cgi" />
-        <root url="file:///usr/lib/ruby/2.0.0/drb" />
-        <root url="file:///usr/lib/ruby/2.0.0/irb" />
-        <root url="file:///usr/lib/ruby/2.0.0/net" />
-        <root url="file:///usr/lib/ruby/2.0.0/rss" />
-        <root url="file:///usr/lib/ruby/2.0.0/uri" />
-        <root url="file:///usr/lib/ruby/2.0.0/date" />
-        <root url="file:///usr/lib/ruby/2.0.0/json" />
-        <root url="file:///usr/lib/ruby/2.0.0/racc" />
-        <root url="file:///usr/lib/ruby/2.0.0/rake" />
-        <root url="file:///usr/lib/ruby/2.0.0/rdoc" />
-        <root url="file:///usr/lib/ruby/2.0.0/yaml" />
-        <root url="file:///usr/lib/ruby/2.0.0/psych" />
-        <root url="file:///usr/lib/ruby/2.0.0/rexml" />
-        <root url="file:///usr/lib/ruby/2.0.0/rinda" />
-        <root url="file:///usr/lib/ruby/2.0.0/shell" />
-        <root url="file:///usr/lib/ruby/2.0.0/digest" />
-        <root url="file:///usr/lib/ruby/2.0.0/fiddle" />
-        <root url="file:///usr/lib/ruby/2.0.0/matrix" />
-        <root url="file:///usr/lib/ruby/2.0.0/ripper" />
-        <root url="file:///usr/lib/ruby/2.0.0/syslog" />
-        <root url="file:///usr/lib/ruby/2.0.0/xmlrpc" />
-        <root url="file:///usr/lib/ruby/2.0.0/openssl" />
-        <root url="file:///usr/lib/ruby/2.0.0/webrick" />
-        <root url="file:///usr/lib/ruby/2.0.0/minitest" />
-        <root url="file:///usr/lib/ruby/2.0.0/optparse" />
-        <root url="file:///usr/lib/ruby/2.0.0/rbconfig" />
-        <root url="file:///usr/lib/ruby/2.0.0/rubygems" />
-        <root url="file:///usr/lib/ruby/2.0.0/bigdecimal" />
-        <root url="file:///usr/lib/ruby/2.0.0/universal-darwin15" />
       </SOURCES>
     </library>
     <library name="psych (v2.0.8, rbenv: 2.2.3) [gem]">
@@ -1770,76 +1420,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/railties-4.2.5.1/lib" />
       </SOURCES>
     </library>
-    <library name="rake (v0.9.6, ruby-2.0.0-p645) [gem]">
-      <CLASSES>
-        <root url="file:///usr/lib/ruby/2.0.0/dl" />
-        <root url="file:///usr/lib/ruby/2.0.0/io" />
-        <root url="file:///usr/lib/ruby/2.0.0/cgi" />
-        <root url="file:///usr/lib/ruby/2.0.0/drb" />
-        <root url="file:///usr/lib/ruby/2.0.0/irb" />
-        <root url="file:///usr/lib/ruby/2.0.0/net" />
-        <root url="file:///usr/lib/ruby/2.0.0/rss" />
-        <root url="file:///usr/lib/ruby/2.0.0/uri" />
-        <root url="file:///usr/lib/ruby/2.0.0/date" />
-        <root url="file:///usr/lib/ruby/2.0.0/json" />
-        <root url="file:///usr/lib/ruby/2.0.0/racc" />
-        <root url="file:///usr/lib/ruby/2.0.0/rake" />
-        <root url="file:///usr/lib/ruby/2.0.0/rdoc" />
-        <root url="file:///usr/lib/ruby/2.0.0/yaml" />
-        <root url="file:///usr/lib/ruby/2.0.0/psych" />
-        <root url="file:///usr/lib/ruby/2.0.0/rexml" />
-        <root url="file:///usr/lib/ruby/2.0.0/rinda" />
-        <root url="file:///usr/lib/ruby/2.0.0/shell" />
-        <root url="file:///usr/lib/ruby/2.0.0/digest" />
-        <root url="file:///usr/lib/ruby/2.0.0/fiddle" />
-        <root url="file:///usr/lib/ruby/2.0.0/matrix" />
-        <root url="file:///usr/lib/ruby/2.0.0/ripper" />
-        <root url="file:///usr/lib/ruby/2.0.0/syslog" />
-        <root url="file:///usr/lib/ruby/2.0.0/xmlrpc" />
-        <root url="file:///usr/lib/ruby/2.0.0/openssl" />
-        <root url="file:///usr/lib/ruby/2.0.0/webrick" />
-        <root url="file:///usr/lib/ruby/2.0.0/minitest" />
-        <root url="file:///usr/lib/ruby/2.0.0/optparse" />
-        <root url="file:///usr/lib/ruby/2.0.0/rbconfig" />
-        <root url="file:///usr/lib/ruby/2.0.0/rubygems" />
-        <root url="file:///usr/lib/ruby/2.0.0/bigdecimal" />
-        <root url="file:///usr/lib/ruby/2.0.0/universal-darwin15" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/lib/ruby/2.0.0/dl" />
-        <root url="file:///usr/lib/ruby/2.0.0/io" />
-        <root url="file:///usr/lib/ruby/2.0.0/cgi" />
-        <root url="file:///usr/lib/ruby/2.0.0/drb" />
-        <root url="file:///usr/lib/ruby/2.0.0/irb" />
-        <root url="file:///usr/lib/ruby/2.0.0/net" />
-        <root url="file:///usr/lib/ruby/2.0.0/rss" />
-        <root url="file:///usr/lib/ruby/2.0.0/uri" />
-        <root url="file:///usr/lib/ruby/2.0.0/date" />
-        <root url="file:///usr/lib/ruby/2.0.0/json" />
-        <root url="file:///usr/lib/ruby/2.0.0/racc" />
-        <root url="file:///usr/lib/ruby/2.0.0/rake" />
-        <root url="file:///usr/lib/ruby/2.0.0/rdoc" />
-        <root url="file:///usr/lib/ruby/2.0.0/yaml" />
-        <root url="file:///usr/lib/ruby/2.0.0/psych" />
-        <root url="file:///usr/lib/ruby/2.0.0/rexml" />
-        <root url="file:///usr/lib/ruby/2.0.0/rinda" />
-        <root url="file:///usr/lib/ruby/2.0.0/shell" />
-        <root url="file:///usr/lib/ruby/2.0.0/digest" />
-        <root url="file:///usr/lib/ruby/2.0.0/fiddle" />
-        <root url="file:///usr/lib/ruby/2.0.0/matrix" />
-        <root url="file:///usr/lib/ruby/2.0.0/ripper" />
-        <root url="file:///usr/lib/ruby/2.0.0/syslog" />
-        <root url="file:///usr/lib/ruby/2.0.0/xmlrpc" />
-        <root url="file:///usr/lib/ruby/2.0.0/openssl" />
-        <root url="file:///usr/lib/ruby/2.0.0/webrick" />
-        <root url="file:///usr/lib/ruby/2.0.0/minitest" />
-        <root url="file:///usr/lib/ruby/2.0.0/optparse" />
-        <root url="file:///usr/lib/ruby/2.0.0/rbconfig" />
-        <root url="file:///usr/lib/ruby/2.0.0/rubygems" />
-        <root url="file:///usr/lib/ruby/2.0.0/bigdecimal" />
-        <root url="file:///usr/lib/ruby/2.0.0/universal-darwin15" />
-      </SOURCES>
-    </library>
     <library name="rake (v10.4.2, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/2.2.0/io" />
@@ -1954,76 +1534,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/rb-inotify-0.9.7/lib" />
-      </SOURCES>
-    </library>
-    <library name="rdoc (v4.0.0, ruby-2.0.0-p645) [gem]">
-      <CLASSES>
-        <root url="file:///usr/lib/ruby/2.0.0/dl" />
-        <root url="file:///usr/lib/ruby/2.0.0/io" />
-        <root url="file:///usr/lib/ruby/2.0.0/cgi" />
-        <root url="file:///usr/lib/ruby/2.0.0/drb" />
-        <root url="file:///usr/lib/ruby/2.0.0/irb" />
-        <root url="file:///usr/lib/ruby/2.0.0/net" />
-        <root url="file:///usr/lib/ruby/2.0.0/rss" />
-        <root url="file:///usr/lib/ruby/2.0.0/uri" />
-        <root url="file:///usr/lib/ruby/2.0.0/date" />
-        <root url="file:///usr/lib/ruby/2.0.0/json" />
-        <root url="file:///usr/lib/ruby/2.0.0/racc" />
-        <root url="file:///usr/lib/ruby/2.0.0/rake" />
-        <root url="file:///usr/lib/ruby/2.0.0/rdoc" />
-        <root url="file:///usr/lib/ruby/2.0.0/yaml" />
-        <root url="file:///usr/lib/ruby/2.0.0/psych" />
-        <root url="file:///usr/lib/ruby/2.0.0/rexml" />
-        <root url="file:///usr/lib/ruby/2.0.0/rinda" />
-        <root url="file:///usr/lib/ruby/2.0.0/shell" />
-        <root url="file:///usr/lib/ruby/2.0.0/digest" />
-        <root url="file:///usr/lib/ruby/2.0.0/fiddle" />
-        <root url="file:///usr/lib/ruby/2.0.0/matrix" />
-        <root url="file:///usr/lib/ruby/2.0.0/ripper" />
-        <root url="file:///usr/lib/ruby/2.0.0/syslog" />
-        <root url="file:///usr/lib/ruby/2.0.0/xmlrpc" />
-        <root url="file:///usr/lib/ruby/2.0.0/openssl" />
-        <root url="file:///usr/lib/ruby/2.0.0/webrick" />
-        <root url="file:///usr/lib/ruby/2.0.0/minitest" />
-        <root url="file:///usr/lib/ruby/2.0.0/optparse" />
-        <root url="file:///usr/lib/ruby/2.0.0/rbconfig" />
-        <root url="file:///usr/lib/ruby/2.0.0/rubygems" />
-        <root url="file:///usr/lib/ruby/2.0.0/bigdecimal" />
-        <root url="file:///usr/lib/ruby/2.0.0/universal-darwin15" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/lib/ruby/2.0.0/dl" />
-        <root url="file:///usr/lib/ruby/2.0.0/io" />
-        <root url="file:///usr/lib/ruby/2.0.0/cgi" />
-        <root url="file:///usr/lib/ruby/2.0.0/drb" />
-        <root url="file:///usr/lib/ruby/2.0.0/irb" />
-        <root url="file:///usr/lib/ruby/2.0.0/net" />
-        <root url="file:///usr/lib/ruby/2.0.0/rss" />
-        <root url="file:///usr/lib/ruby/2.0.0/uri" />
-        <root url="file:///usr/lib/ruby/2.0.0/date" />
-        <root url="file:///usr/lib/ruby/2.0.0/json" />
-        <root url="file:///usr/lib/ruby/2.0.0/racc" />
-        <root url="file:///usr/lib/ruby/2.0.0/rake" />
-        <root url="file:///usr/lib/ruby/2.0.0/rdoc" />
-        <root url="file:///usr/lib/ruby/2.0.0/yaml" />
-        <root url="file:///usr/lib/ruby/2.0.0/psych" />
-        <root url="file:///usr/lib/ruby/2.0.0/rexml" />
-        <root url="file:///usr/lib/ruby/2.0.0/rinda" />
-        <root url="file:///usr/lib/ruby/2.0.0/shell" />
-        <root url="file:///usr/lib/ruby/2.0.0/digest" />
-        <root url="file:///usr/lib/ruby/2.0.0/fiddle" />
-        <root url="file:///usr/lib/ruby/2.0.0/matrix" />
-        <root url="file:///usr/lib/ruby/2.0.0/ripper" />
-        <root url="file:///usr/lib/ruby/2.0.0/syslog" />
-        <root url="file:///usr/lib/ruby/2.0.0/xmlrpc" />
-        <root url="file:///usr/lib/ruby/2.0.0/openssl" />
-        <root url="file:///usr/lib/ruby/2.0.0/webrick" />
-        <root url="file:///usr/lib/ruby/2.0.0/minitest" />
-        <root url="file:///usr/lib/ruby/2.0.0/optparse" />
-        <root url="file:///usr/lib/ruby/2.0.0/rbconfig" />
-        <root url="file:///usr/lib/ruby/2.0.0/rubygems" />
-        <root url="file:///usr/lib/ruby/2.0.0/bigdecimal" />
-        <root url="file:///usr/lib/ruby/2.0.0/universal-darwin15" />
       </SOURCES>
     </library>
     <library name="rdoc (v4.2.0, rbenv: 2.2.3) [gem]">
@@ -2401,7 +1911,7 @@
         <root url="file:///usr/lib/ruby/2.0.0/rbconfig" />
         <root url="file:///usr/lib/ruby/2.0.0/rubygems" />
         <root url="file:///usr/lib/ruby/2.0.0/bigdecimal" />
-        <root url="file:///usr/lib/ruby/2.0.0/universal-darwin15" />
+        <root url="file:///usr/lib/ruby/2.0.0/universal-darwin16" />
       </CLASSES>
       <SOURCES>
         <root url="file:///usr/lib/ruby/2.0.0/dl" />
@@ -2435,7 +1945,7 @@
         <root url="file:///usr/lib/ruby/2.0.0/rbconfig" />
         <root url="file:///usr/lib/ruby/2.0.0/rubygems" />
         <root url="file:///usr/lib/ruby/2.0.0/bigdecimal" />
-        <root url="file:///usr/lib/ruby/2.0.0/universal-darwin15" />
+        <root url="file:///usr/lib/ruby/2.0.0/universal-darwin16" />
       </SOURCES>
     </library>
     <library name="test-unit (v3.0.8, rbenv: 2.2.3) [gem]">
