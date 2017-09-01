@@ -1768,11 +1768,13 @@
     </library>
     <library name="nio4r (v2.0.0, RVM: ruby-2.4.1 [rails5.0]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.0.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails5.0/gems/nio4r-2.0.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails5.0/gems/nio4r-2.0.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails5.0/gems/nio4r-2.0.0/tasks" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.0.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails5.0/gems/nio4r-2.0.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails5.0/gems/nio4r-2.0.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails5.0/gems/nio4r-2.0.0/tasks" />
@@ -1854,6 +1856,7 @@
     </library>
     <library name="nokogiri (v1.7.2, RVM: ruby-2.4.1 [rails5.0]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.7.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails5.0/gems/nokogiri-1.7.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails5.0/gems/nokogiri-1.7.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails5.0/gems/nokogiri-1.7.2/lib" />
@@ -1862,6 +1865,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails5.0/gems/nokogiri-1.7.2/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.7.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails5.0/gems/nokogiri-1.7.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails5.0/gems/nokogiri-1.7.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails5.0/gems/nokogiri-1.7.2/lib" />
@@ -1960,6 +1964,7 @@
     </library>
     <library name="puma (v3.8.2, RVM: ruby-2.4.1 [rails5.0]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.8.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails5.0/gems/puma-3.8.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails5.0/gems/puma-3.8.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails5.0/gems/puma-3.8.2/lib" />
@@ -1968,6 +1973,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails5.0/gems/puma-3.8.2/gemfiles" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.8.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails5.0/gems/puma-3.8.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails5.0/gems/puma-3.8.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails5.0/gems/puma-3.8.2/lib" />
@@ -2364,11 +2370,13 @@
     </library>
     <library name="rb-fsevent (v0.9.8, RVM: ruby-2.4.1 [rails5.0]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.9.8" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails5.0/gems/rb-fsevent-0.9.8/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails5.0/gems/rb-fsevent-0.9.8/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails5.0/gems/rb-fsevent-0.9.8/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.9.8" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails5.0/gems/rb-fsevent-0.9.8/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails5.0/gems/rb-fsevent-0.9.8/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@rails5.0/gems/rb-fsevent-0.9.8/lib" />
